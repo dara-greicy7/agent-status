@@ -1,0 +1,1 @@
+{ "name": "agent-status", "version": "0.1.0", "description": "Live cards for every working agent: status, estimated progress, skill in use", "types": "./types/index.d.ts" }
